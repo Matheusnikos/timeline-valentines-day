@@ -151,7 +151,7 @@ margin-right: 200px;
   font-family: "Special Elite", cursive;
   font-size: 16px;
     animation-name: texto-genesis;
-  animation-duration: 190s;
+  animation-duration: 35s;
   animation-timing-function: ease-in-out;
 }
 
@@ -281,7 +281,7 @@ margin-right: 200px;
   }
 }
 
-.anima02 {
+/* .anima02 {
   animation-name: anima02-animation;
   animation-duration: 50s;
   animation-timing-function: ease-in-out;
@@ -459,7 +459,7 @@ margin-right: 200px;
   100% {
     opacity: 1;
   }
-}
+} */
 
 @media (max-width: 768px) {
   :root {
